@@ -21,19 +21,19 @@
 # Тесты
 Тест 1
 ___
-![1 тест]![2022-11-27_11-49-10](https://user-images.githubusercontent.com/113675455/204123194-3aa812ca-f792-42c1-b24a-2d2b3a42d4aa.png)
+![2022-11-27_11-49-10](https://user-images.githubusercontent.com/113675455/204123194-3aa812ca-f792-42c1-b24a-2d2b3a42d4aa.png)
 
 Рис. 1 "Тест 1"
 ___
 Тест 2
 ___
-![2 тест]![2022-11-27_11-51-04](https://user-images.githubusercontent.com/113675455/204123198-08539615-0161-4fe0-b5a8-61beaef59d2d.png)
+![2022-11-27_11-51-04](https://user-images.githubusercontent.com/113675455/204123198-08539615-0161-4fe0-b5a8-61beaef59d2d.png)
 
 Рис. 2 "Тест 2"
 ___
 Тест 3
 ___
-![3 тест]![2022-11-27_11-51-47](https://user-images.githubusercontent.com/113675455/204123201-ab6fa9a3-40b5-4b0c-a4ec-d2fe37ba6428.png)
+![2022-11-27_11-51-47](https://user-images.githubusercontent.com/113675455/204123201-ab6fa9a3-40b5-4b0c-a4ec-d2fe37ba6428.png)
 
 Рис. 3 "Тест 3"
 
