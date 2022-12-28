@@ -21,19 +21,40 @@
 # Тесты
 Тест 1
 ___
-![2022-11-27_11-49-10](https://user-images.githubusercontent.com/113675455/204123194-3aa812ca-f792-42c1-b24a-2d2b3a42d4aa.png)
+![2022-12-28_10-19-52](https://user-images.githubusercontent.com/113675455/209762447-4b100f62-1709-484d-815e-764051bc2123.png)
 
-Рис. 1 "Тест 1"
+Рис. 1.1 "Исходные клетки"
+
+![2022-12-28_10-22-03](https://user-images.githubusercontent.com/113675455/209762467-4891402f-821c-4c93-a97a-6d854ca6d837.png)
+
+Рис. 1.2 "Входные данные"
 ___
 Тест 2
 ___
-![2022-11-27_11-51-04](https://user-images.githubusercontent.com/113675455/204123198-08539615-0161-4fe0-b5a8-61beaef59d2d.png)
+![2022-12-28_10-23-13](https://user-images.githubusercontent.com/113675455/209762551-83cb0219-f2c1-41a6-af9d-ca9c00c8f43a.png)
 
-Рис. 2 "Тест 2"
+Рис. 2.1 "Исходные клетки"
+
+![2022-12-28_10-23-34](https://user-images.githubusercontent.com/113675455/209762608-8ac60a09-2cda-4f7b-af8b-2db5360eb2af.png)
+
+Рис. 2.2 "Реализация за 2 хода"
+
+![2022-12-28_10-23-52](https://user-images.githubusercontent.com/113675455/209762667-cd91ca0c-2342-4032-a132-5af21907bd71.png)
+
+Рис. 2.3 " Входные данные"
+
 ___
 Тест 3
 ___
-![2022-11-27_11-51-47](https://user-images.githubusercontent.com/113675455/204123201-ab6fa9a3-40b5-4b0c-a4ec-d2fe37ba6428.png)
 
-Рис. 3 "Тест 3"
+![2022-12-28_10-24-22](https://user-images.githubusercontent.com/113675455/209762737-74414be8-0cd7-46a7-9ee5-6fd1ffe4d347.png)
 
+Рис. 3.1 "Исходные клетки"
+
+![2022-12-28_10-25-47](https://user-images.githubusercontent.com/113675455/209762763-c82fc61b-f5a3-479a-b2d9-61f3c6a8884c.png)
+
+Рис. 3.2 "Реализация за 2 хода"
+
+![2022-12-28_10-26-04](https://user-images.githubusercontent.com/113675455/209762807-5670eb57-1e6c-4f4c-a075-48dce2728a31.png)
+
+Рис. 3.3 " Входные данные"
